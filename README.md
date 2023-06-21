@@ -8,3 +8,4 @@ STEPS:
    - Use SSM Session Manager to install without any keys
 * Jenkins File
 * Run cft using AWS CLI Commands
+Link to medium article - https://medium.com/@Moh_S/install-jenkins-on-ec2-and-run-cloudformation-from-github-using-jenkins-e41a3abfacef
